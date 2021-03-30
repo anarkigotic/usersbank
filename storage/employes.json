@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name": "esperanza",
+        "lastName": "gomez",
+        "email" :"esperanza@gmail.com",
+        "password": "$2b$10$kHBHcCEAFzUpHYHeygSqlu0Y01ykagkgGvSBZ5lqn9N9pbTT9H1t6"
+    },
+    {
+        "id":2,
+        "name": "daniela",
+        "lastName": "jerez",
+        "email" :"daniela@gmail.com",
+        "password": "$2b$10$U7CWKy21i2Xk07pmOKDNlOhZLdGx9F6Q3ojrcmWd95AR4PVDYMgE6"
+    },
+    {
+        "id":3,
+        "name": "carlos",
+        "lastName": "castañeda",
+        "email" :"carlo@gmail.com",
+        "password": "$2b$10$6Y5FlpZaZ3AmLhgh8uNuvuWHRRczTy0QHs8286eyJ75dMPjCUqbEe"
+    },
+    {
+        "id":4,
+        "name": "miguel",
+        "lastName": "cervantes",
+        "email" :"miguel@gmail.com",
+        "password": "$2b$10$TOSoO03QXRplYQVx5r2JF.TrCikcSRXbzjkStGETUkSjkrawqSSFe"
+    },
+    {
+        "id":5,
+        "name": "juan",
+        "lastName": "jerez",
+        "email" :"juan@gmail.com",
+        "password": "$2b$10$rw/a3BYHslKYrFCbVoTQBe/h3WgpFEh.RLMiJmCB6QQgHTwqMCW3i"
+    }
+]
