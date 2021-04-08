@@ -11,7 +11,7 @@ const getUserid = (req, res) => {
         return responseService(res,200,"HU1",employed)
     } catch (error) {
         const { message, status } = (JSON.parse(error.message));
-        return responseService(res,status,"faild",message)
+        return responseService(res,status,"faild",message);
     }
 
 
